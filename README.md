@@ -15,7 +15,7 @@ A lightweight ethical keylogger written in Python for **educational** and **auth
 ## 📁 Project Structure
 
 ```bash
-ethical-keylogger/
+keylogger/
 ├── keylogger.py          # Main script
 ├── decrypt_log.py        # Decrypt logs locally
 ├── secret.key            # Symmetric key (auto-generated)
