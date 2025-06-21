@@ -1,7 +1,6 @@
 # KeyLogger
 A lightweight ethical keylogger written in Python for **educational** and **authorized monitoring** use cases only. It logs keyboard activity, captures periodic screenshots, encrypts logs, and optionally sends them via email.
 
---
 
 ## 🚀 Features
 
